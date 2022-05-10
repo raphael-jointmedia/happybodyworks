@@ -237,7 +237,6 @@ a:hover {
 a:link,
 a:visited {
     color: white;
-    background: #ff9933;
 }
 
 a:hover {
@@ -518,8 +517,8 @@ h3 {
 h4 {
     font-size: 300%;
     text-align: center;
-    color: #f4eee8;
-    background: linear-gradient(90deg, rgb(255, 153, 51) 34%, rgb(255, 153, 51) 34%);
+    color: white;
+    background: #ff9933;
     padding: 70px 0;
     max-height: 100%;
     margin-top: auto;
